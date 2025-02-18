@@ -23,6 +23,15 @@
     echo "naimur $name";
     // echo 
 
+    $naimur = "It is me named naimur rahman durjoy";
+
+    function testNaimurr()
+    {
+        global $naimur;
+        echo $naimur;
+    }
+
+
 
     ?>
 
