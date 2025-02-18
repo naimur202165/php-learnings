@@ -32,6 +32,21 @@
     }
 
 
+    $text1 = 50;
+    $text2 = 50;
+
+    $total_of_it = $text1 + $text2;
+
+    function total()
+    {
+        global $total_of_it;
+        echo $total_of_it;
+    }
+
+
+    total();
+
+
 
     ?>
 
