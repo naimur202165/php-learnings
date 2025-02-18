@@ -45,6 +45,9 @@
 
 
     total();
+    // Working with arreys
+
+
 
 
 
